@@ -1,14 +1,6 @@
 # HR-Analytics-Dashboard
 This project examines attrition, salary distribution, and performance metrics using MySQL and Python visualization tools (Seaborn, Matplotlib). Includes database normalization and queries for efficient HR decision-making.
 
-FINAL PROJECT
-Team
-Srivatsav Yallapragada
-Mohit Kale
-Geeta Sai Sneha Bankuru
-Deepak Vital Patil
-
-
 Dataset considered:
 HR_Analytics | HR Analytics Dataset
 The HR Analytics dataset provides comprehensive insights into employee attributes and organizational dynamics, enabling data-driven decisions to enhance employee satisfaction, retention, and performance.
